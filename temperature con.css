@@ -1,0 +1,40 @@
+#mainDiv{
+    margin-left: 400px;
+    background-color: rgb(23, 109, 174);
+    height: 400px;
+    width: 300px;
+    border: 30px solid rgb(10, 2, 58);
+    padding: 50px ;
+}
+#heading{
+    text-align: center;
+}
+#convertDiv{
+    justify-content: space-between;
+    padding: 50px;
+    display: flex;
+}
+#inputValue{
+    height: 30px;
+    
+}
+#from{
+    /* padding-right: 10px; */
+}
+#Result{
+    margin-left: 40px;
+    text-align: center;
+    height: 50px;
+    width: 210px;
+    background-color: white;
+    border: 1px solid black;
+}
+#convertButton{
+    height: 30px;
+    width: 80px;
+    margin-left: 110px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: rgb(242, 246, 245);
+    /* border: 1px solid white; */
+}
